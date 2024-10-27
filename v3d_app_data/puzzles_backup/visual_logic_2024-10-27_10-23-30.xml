@@ -1,0 +1,34 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="365.12403869628895" scrolly="0" scale="0.9"></tab>
+  <tab name="animation" type="CommonTab" active="false" scrollx="53.269195556640625" scrolly="0" scale="0.9"></tab>
+  <tab name="main" type="CommonTab" active="true" scrollx="0" scrolly="1.1368683772161603e-13" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="t=VIXR9PAKB9]G^06qEe" inline="false" x="110" y="110">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="?0s3F_yRv~VJSaMp}f8X">
+          <field name="FIELDNAME">sphere_chrome</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="assignMaterial" id="+|%7htD|__NG:D1VgmkJ">
+          <value name="VALUE2">
+            <shadow type="materialList" id="x0btJ]yGtz?;pGrx0/x1">
+              <field name="FIELDNAME">chrome.001</field>
+            </shadow>
+          </value>
+          <value name="VALUE1">
+            <shadow type="objectList" id="fJ0iZwornA5V}1,p_#T5">
+              <field name="FIELDNAME">metal stand</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+  </tab>
+  <editorsettings viewport-x="763.6525573730469" viewport-y="106.18739318847656" viewport-w="254" viewport-h="192" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

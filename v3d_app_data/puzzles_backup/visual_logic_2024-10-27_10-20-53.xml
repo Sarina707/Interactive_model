@@ -1,0 +1,28 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="365.12403869628895" scrolly="0" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="initSettings" id="Q8c?.q/o.)]sHSFPFcf." x="-390" y="10">
+      <field name="LOAD_COMP_ASSETS">TRUE</field>
+      <field name="FULLSCREEN">TRUE</field>
+      <field name="BKG_TRANSPARENCY">FALSE</field>
+      <field name="PRESERVE_DRAW_BUF">FALSE</field>
+      <field name="FADE_ANNOTATIONS">TRUE</field>
+    </block>
+  </tab>
+  <tab name="main" type="CommonTab" active="true" scrollx="145.41514742708364" scrolly="111.51480993626774" scale="0.7628317505138505">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="XGCgrVnvv-iD.;dRXy=P" inline="false" x="-30" y="10">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="*/bfOTfJ+M?7}Sw;a;!~">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <tab name="animation" type="CommonTab" active="false" scrollx="53.269195556640625" scrolly="51" scale="0.9"></tab>
+  <editorsettings viewport-x="763.6525573730469" viewport-y="106.18739318847656" viewport-w="254" viewport-h="192" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
